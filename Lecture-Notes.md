@@ -1,28 +1,10 @@
-# Python Course The original content, terminology, examples and sequence of each image have been preserved; only obvious typos and formatting problems were corrected.
-
-## Introduction
-
-This document converts a series of illustrated Python course sheets into structured, classroom-ready lecture notes. It starts with the tools used to write Python, then moves through syntax, data types, operators, input/output, strings, decision making, pattern programs, collections (lists and sets), file handling, modules and packages, object-oriented programming and, finally, exception handling.
-
-**How to read the notes**
-
-| Label | Meaning |
-|-------|---------|
-| `> [!IMPORTANT]` | An essential definition or concept |
-| `> [!NOTE]` | A clarification that does not change the original content |
-| `> [!WARNING]` **Verify** | Something unclear, cropped or possibly mis-printed in the source image |
-| *Output* blocks (` ```text `) | Program output as shown in the source image |
-| *Key Takeaways* | Summary of the main points at the end of each lecture |
+# Python Course 
 
 ## Course Information
 
 | Item | Details |
 |------|---------|
-| Course | Python (programming course sheets) |
-| Source material | 20 images (illustrated course notes), see [Appendix A](#19-appendix-a-source-image-index) |
-| Course title / instructor / duration | Not stated in the supplied images |
-| Language | Python 3 |
-| Original file names | Listed in Appendix A; copies can be placed in the `images/` folder |
+| Course | Python |
 
 ## Table of Contents
 

@@ -1,7 +1,4 @@
-# Python Course – Lecture Notes
-
-> Comprehensive lecture notes compiled from the supplied Python course images (20 images, 18 lectures plus appendices).
-> The original content, terminology, examples and sequence of each image have been preserved; only obvious typos and formatting problems were corrected.
+# Python Course The original content, terminology, examples and sequence of each image have been preserved; only obvious typos and formatting problems were corrected.
 
 ## Introduction
 

@@ -1,17 +1,5 @@
 # Python Course
 
-Structured lecture notes for a beginner-to-intermediate Python course, converted from illustrated course sheets (images) into GitHub-friendly Markdown.
-
-## Repository Structure
-
-```text
-Python-Course/
-│
-├── README.md          <- this file
-├── Lecture-Notes.md   <- complete lecture notes with clickable Table of Contents
-└── images/            <- original course images (source material)
-```
-
 ## What's Inside
 
 `Lecture-Notes.md` contains:

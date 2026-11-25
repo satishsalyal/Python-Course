@@ -1,35 +1,5 @@
 # Python Course – Lecture Notes (Topic-wise)
 
-> Comprehensive lecture notes compiled from the supplied Python course images (**40 images → 20 topics + appendices**), arranged topic-wise.
-> The original content, terminology, examples and sequence of each image are preserved; only obvious typos and formatting problems were corrected.
-
-## Introduction
-
-This document converts a series of illustrated Python course sheets into structured, classroom-ready lecture notes. All sheets that belong to the same subject are gathered under one topic. Topics run from what Python is and how to set it up, through syntax, operators, input/output, control flow and data structures, to functions, modules, files, object-oriented programming, exceptions and advanced topics.
-
-**How the notes are organised**
-
-- `##` Topic (for example *Operators*)
-- `###` Source sheet / part inside the topic (for example *Page 1*, *Page 2*) – or, for single-sheet topics, the sections of the sheet
-- `####` and `#####` Sections and sub-sections of a sheet
-
-| Label | Meaning |
-|-------|---------|
-| `> [!IMPORTANT]` | An essential definition or concept |
-| `> [!NOTE]` | A clarification that does not change the original content |
-| `> [!WARNING]` **Verify** | Something unclear, cropped or possibly mis-printed in the source image |
-| *Output* blocks (` ```text `) | Program output as shown in the source image |
-| *Key Takeaways* | Summary of the main points at the end of each sheet |
-
-## Course Information
-
-| Item | Details |
-|------|---------|
-| Course | Python (programming course sheets) |
-| Source material | 40 images (illustrated course notes) in two batches, see [Appendix A](#21-appendix-a-source-image-index) |
-| Course title / instructor / duration | Not stated in the supplied images |
-| Language | Python 3 (examples use Python 3.12) |
-| Original file names | Listed in Appendix A; copies are in the `images/` folder |
 
 ## Table of Contents
 

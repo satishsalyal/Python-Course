@@ -1,16 +1,5 @@
 # Python Course
 
-Topic-wise lecture notes for a beginner-to-intermediate Python course, converted from **40 illustrated course sheets (images)** into GitHub-friendly Markdown.
-
-## Repository Structure
-
-```text
-Python-Course/
-│
-├── README.md          <- this file
-├── Lecture-Notes.md   <- complete topic-wise lecture notes with clickable Table of Contents
-└── images/            <- the 40 original course images (source material)
-```
 
 ## Topics
 

@@ -498,7 +498,7 @@
 
 ## 1 Python Introduction
 
-*Source image: [915038639_1501559435177974_5691446280889856523_n.png](images/915038639_1501559435177974_5691446280889856523_n.png)*
+*Source image: [image1.png](images/image1.png)*
 
 ### 1.1 What is Python?
 
